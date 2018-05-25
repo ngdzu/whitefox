@@ -1,0 +1,2 @@
+# whitefox
+Whitefox keyboard mapping
