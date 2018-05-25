@@ -1,4 +1,4 @@
 # whitefox
 Whitefox keyboard mapping
 
-![Alt text](resource/layout.pngraw=true "Optional Title")
+![Alt text](resource/layout.png?raw=true "Optional Title")
