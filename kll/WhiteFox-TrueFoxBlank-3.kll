@@ -1,0 +1,17 @@
+Name = "WhiteFox";
+Variant = "truefox";
+Layout = "TrueFoxBlank";
+Base = "TheTrueFoxBase";
+Version = "0.2";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2016-05-30";
+Generator = "KIICONF 0.2";
+
+U"E" : mouseOut( 0, 0, -5 );
+U"S" : mouseOut( 0, -5, 0 );
+U"D" : mouseOut( 0, 0, 5 );
+U"F" : mouseOut( 0, 5, 0 );
+
+
+
