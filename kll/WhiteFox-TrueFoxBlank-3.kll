@@ -9,9 +9,13 @@ Date = "2016-05-30";
 Generator = "KIICONF 0.2";
 
 U"E" : mouseOut( 0, 0, -5 );
+U"I" : U"PAGEUP";
 U"S" : mouseOut( 0, -5, 0 );
 U"D" : mouseOut( 0, 0, 5 );
 U"F" : mouseOut( 0, 5, 0 );
+U"J" : U"HOME";
+U"K" : U"PAGEDOWN";
+U"L" : U"END";
 
 
 

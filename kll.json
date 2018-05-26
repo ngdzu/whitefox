@@ -2633,6 +2633,25 @@
                     ]
                 ]
             },
+            ":0 S025": {
+                "kll": "S0x019 : U0x04b;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 75
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 25
+                        }
+                    ]
+                ]
+            },
             ":0 S034": {
                 "kll": "S0x022 : mouseOut(0,-5,0);",
                 "result": [
@@ -2728,6 +2747,63 @@
                         {
                             "type": "ScanCode",
                             "uid": 36
+                        }
+                    ]
+                ]
+            },
+            ":0 S039": {
+                "kll": "S0x027 : U0x04a;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 74
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 39
+                        }
+                    ]
+                ]
+            },
+            ":0 S040": {
+                "kll": "S0x028 : U0x04e;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 78
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 40
+                        }
+                    ]
+                ]
+            },
+            ":0 S041": {
+                "kll": "S0x029 : U0x04d;",
+                "result": [
+                    [
+                        {
+                            "type": "USBCode",
+                            "uid": 77
+                        }
+                    ]
+                ],
+                "trigger": [
+                    [
+                        {
+                            "type": "ScanCode",
+                            "uid": 41
                         }
                     ]
                 ]
